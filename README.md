@@ -9,7 +9,6 @@ The **Persona-Adaptive Customer Support Agent** is an AI-powered support system 
 This project demonstrates practical applications of Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Vector Databases, Persona Detection, and Human-in-the-Loop AI systems.
 
 ---
-
 # Features
 
 * Customer Persona Detection
